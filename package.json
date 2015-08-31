@@ -1,6 +1,6 @@
 {
-  "name": "kafka-node",
-  "description": "node client for Apache kafka, only support kafka 0.8 and above",
+  "name": "golance-kafka-node",
+  "description": "goLance fork of kafka-node: node client for Apache kafka, only support kafka 0.8 and above",
   "version": "0.2.27",
   "main": "kafka.js",
   "dependencies": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:SOHU-Co/kafka-node.git"
+    "url": "git@github.com:GoLanceLLC/kafka-node.git"
   },
   "scripts": {
     "test": "make test"
